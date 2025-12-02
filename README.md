@@ -22,6 +22,9 @@ Player re-identification: Re-identifying players after they leave and re-enter t
 
 Camera calibration: Precise camera calibration is essential for advanced metrics like speed, movement, and distance, but sports environments make this complex due to shifting angles and dynamic motion.
 
+## Install
+
+pip install git+https://github.com/TheSaiEaranti/sportsvisualization.git
 
 ## ⚽ datasets
 
