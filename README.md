@@ -38,8 +38,6 @@ pip install git+https://github.com/roboflow/sports.git
 | 🏀 basketball jersey numbers ocr       | [![Download Dataset](https://app.roboflow.com/images/download-dataset-badge.svg)](https://universe.roboflow.com/roboflow-jvuqo/basketball-jersey-numbers-ocr)     |
 
 
-Visit [Roboflow Universe](https://universe.roboflow.com/) and explore other sport-related datasets.
-
 ## 🔥 demos
 
 https://github.com/roboflow/sports/assets/26109316/7ad414dd-cc4e-476d-9af3-02dfdf029205
